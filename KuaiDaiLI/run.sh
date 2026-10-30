@@ -1,1 +1,1 @@
- .venv/Scripts/python.exe   proxy-test.py
+ .venv/Scripts/python   proxy-test.py
